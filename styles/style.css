@@ -1,0 +1,19 @@
+/* styles go here */
+
+#best-chef-ever{
+    width: 400px;
+    height: auto;
+}
+
+h1{
+    font-size: 48px;
+    color: teal;
+}
+
+.recipe{
+    font-size: 24px;
+    text-align: center;
+    color: black;
+    background-color: tomato;
+    background-size:contain;
+}
